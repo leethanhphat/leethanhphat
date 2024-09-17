@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### My name is Phat. Welcome to my github
 
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -8,8 +8,8 @@
 - 📖 I'm a student in University of Economics Ho Chi Minh City with major is Software Enginering.
 - 🔭 I’m currently working on Website Projects and continue to develop to create new things.
 - 🌱 I’m currently learning Java, Python, C#,... anything because i always ready study new technology.
-- 📫 How to reach me: ... Just by email or message on social media.
-- ⚡ Fun fact: I like playing basketball, rap, singing, composing music, and coding.
+- 📫 How to reach me: just by Email or Linkedin below.
+- ⚡ Fun fact: I love coding, playing basketball, rap, singing, and reading book.
 
 
 # 📊GitHub Stats :
